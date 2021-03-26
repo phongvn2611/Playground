@@ -875,6 +875,7 @@ li {
 
   .subscribe-input {
     font-size: 1.2rem;
+    padding-right: 0.5rem;
   }
 
   .subscribe-button {
