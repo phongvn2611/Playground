@@ -786,8 +786,12 @@ li {
   .subscribe-info {
     width: 100%;
     display: flex;
-    justify-content: space-between;
     flex-direction: column;
+  }
+  
+  .subscribe-social {
+    display: flex;
+    justify-content: center;
     align-items: center;
   }
 
