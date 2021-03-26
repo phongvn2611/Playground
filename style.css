@@ -830,3 +830,54 @@ li {
     padding-right: 0;
   }
 }
+
+@media screen and (max-width: 374px) {
+  .banner-heading {
+    font-size: 3.5rem;
+  }
+
+  .banner-desc {
+    font-size: 1.6rem;
+  }
+
+  .btn:first-child {
+    margin-right: 1rem;
+  }
+
+  .btn.btn-rounded,
+  .btn.btn-shadow {
+    font-size: 1.2rem;
+  }
+
+  .feature-title {
+    font-size: 2rem;
+  }
+
+  .feature-desc {
+    font-size: 1.6rem;
+  }
+
+  .partner-title {
+    font-size: 2rem;
+  }
+
+  .connect-title {
+    font-size: 2.5rem;
+  }
+
+  .subscribe-title {
+    font-size: 2rem;
+  }
+
+  .subscribe-form {
+    padding: 1.5rem;
+  }
+
+  .subscribe-input {
+    font-size: 1rem;
+  }
+
+  .subscribe-button {
+    font-size: 1rem;
+  }
+}
